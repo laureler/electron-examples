@@ -1,11 +1,11 @@
 {
   "name": "electron-examples",
   "version": "1.0.0",
-  "main": "main.js",
   "repository": "git@github.com:laureler/electron-examples.git",
   "author": "loganylwu",
   "scripts": {
-    "start": "electron ."
+    "start-notification": "electron ./notification/main.js",
+    "start-events": "electron ./events/main.js"
   },
   "license": "MIT",
   "devDependencies": {
