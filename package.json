@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:laureler/electron-examples.git",
-  "author": "loganylwu <loganylwu@tencent.com>",
-  "license": "MIT"
+  "author": "loganylwu",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^18.0.0"
+  }
 }
