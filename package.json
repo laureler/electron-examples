@@ -1,7 +1,7 @@
 {
   "name": "electron-examples",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "repository": "git@github.com:laureler/electron-examples.git",
   "author": "loganylwu",
   "scripts": {
