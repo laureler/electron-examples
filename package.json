@@ -5,7 +5,9 @@
   "author": "loganylwu",
   "scripts": {
     "start-notification": "electron ./notification/main.js",
-    "start-events": "electron ./events/main.js"
+    "start-events": "electron ./events/main.js",
+    "start-basic": "electron ./basic/main.js",
+    "start-menu": "electron ./menu/main.js"
   },
   "license": "MIT",
   "devDependencies": {
